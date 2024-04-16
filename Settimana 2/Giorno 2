@@ -1,0 +1,13 @@
+Report
+
+L'esercizio di oggi consisteva nell'utilizzo dei comandi basici per interatuare con il terminale di linux.
+
+Ho fatto la creazione di diverse cartella con il comando "mkdir", lo spostamento dei file con "mv", cancellazione di un file con 
+"rm".
+
+Per alcuni esercizi ho utilizzato dei shell patterns per velocizzare alcune operazioni, come ad esempio la cancellazione 
+di 20 files usando questo tipo di comano "rm .*spider*". Il punto all'inizio del nome del file è perché si trovavano nascosti e se non
+si specifica dentro la shell pattern non lo troverà.
+
+Per poter fare questo esercizio ho trascinato il file direttamente dal mio computer host verso la macchina virtuale Linux
+abilitando la comunicazione bidirezionale
