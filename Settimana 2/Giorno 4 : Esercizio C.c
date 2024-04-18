@@ -25,23 +25,23 @@ int main()
 		    //First question
 		    printf("\nCapital of Venezuela?\n1 - Caracas\n2 - Margarita\n3 - Maturin\n\n");
 		    scanf("%d", &number);
-			    if (number == 1){
+		    if (number == 1){
 				points++;
-			    }
+		    }
 		    
 		    //Second question
 		    printf("\nCapital of Italy?\n1 - Bari\n2 - Roma\n3 - Palermo\n\n");
 		    scanf("%d", &number);
-			    if (number == 2){
+		    if (number == 2){
 				points++;
-			    }
+		    }
 		    
 		    //Third question
 		    printf("\nCapital of Spain?\n1 - Valencia\n2 - Cadiz\n3 - Madrid\n\n");
 		    scanf("%d", &number);
-			    if (number == 3){
+		    if (number == 3){
 				points++;
-			    }
+		    }
 		    
 		    //Results
 		    printf("\n%s your final score is %d/3 !! ", name, points);
