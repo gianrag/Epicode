@@ -17,7 +17,7 @@ int main()
     if(play == 'y'){
     
 	    printf("Insert your name\n");
-	    scanf("%s", &name);
+	    scanf("%s", name);
 	    
 	    do {
 		    points = 0;
