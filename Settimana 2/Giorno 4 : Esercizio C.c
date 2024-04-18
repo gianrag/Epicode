@@ -4,7 +4,7 @@ int main()
 {
     int points = 0;
     int number;
-    char exitGame = 'Y';
+    char exitGame;
     char name [20];
     char play;
     
